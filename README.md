@@ -1,0 +1,2 @@
+- Practice using LangChain for personal query.
+- Use Agents like Calculator agent and general agent tool.
